@@ -57,7 +57,7 @@ All tasks are handled through a simple GUI using Tkinter.
 
 
 ### 🧩 Run the `.exe` (Executable for Windows)
-
+# Go To Release Section 
 If you have downloaded or built the `.exe` file:
 
 1. Go to the `/dist` folder where the `.exe` is located.
@@ -113,7 +113,6 @@ MIT License – Free to use, modify, and distribute with attribution.
 
 
 ## Author
-
 **Ashirwad Shukla**
 Cybersecurity Enthusiast
 
