@@ -57,7 +57,6 @@ All tasks are handled through a simple GUI using Tkinter.
 
 
 ### 🧩 Run the `.exe` (Executable for Windows)
-# Go To Release Section 
 If you have downloaded or built the `.exe` file:
 
 1. Go to the `/dist` folder where the `.exe` is located.
@@ -65,10 +64,9 @@ If you have downloaded or built the `.exe` file:
 3. No need to install Python or any libraries.
 
 > ⚠️ If Windows flags it, click **"More info → Run anyway"**.
+## Go To Release Section 
 
-
-
-## 🧪 Tools Used
+##  Tools Used
 
 * Python
 * Tkinter (GUI)
