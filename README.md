@@ -2,7 +2,7 @@
 This is a complete penetration testing toolkit built in Python with a user-friendly GUI. 
 
 
-````
+
 # 🛡️ Penetration Testing Toolkit (GUI-Based)
 
 This is a complete penetration testing toolkit built in Python with a user-friendly GUI. It allows ethical hackers and cybersecurity enthusiasts to:
@@ -16,7 +16,6 @@ This is a complete penetration testing toolkit built in Python with a user-frien
 
 All tasks are handled through a simple GUI using Tkinter.
 
----
 
 ##  Features
 
@@ -25,7 +24,6 @@ All tasks are handled through a simple GUI using Tkinter.
 * Easily converted into a `.exe` for Windows systems  
 * Clean and beginner-friendly code
 
----
 
 ## 🖥️ How to Run
 
