@@ -40,7 +40,7 @@ All tasks are handled through a simple GUI using Tkinter.
    ```bash
    git clone https://github.com/your-username/penetration-toolkit.git
    cd penetration-toolkit
-````
+
 
 2. Install required libraries:
 
@@ -54,7 +54,7 @@ All tasks are handled through a simple GUI using Tkinter.
    python main.py
    ```
 
----
+
 
 ### 🧩 Run the `.exe` (Executable for Windows)
 
@@ -66,7 +66,7 @@ If you have downloaded or built the `.exe` file:
 
 > ⚠️ If Windows flags it, click **"More info → Run anyway"**.
 
----
+
 
 ## 🧪 Tools Used
 
@@ -75,7 +75,6 @@ If you have downloaded or built the `.exe` file:
 * `whois`, `dnspython`, `requests`
 * `PyInstaller` for packaging
 
----
 
 ##  Installation & Build
 
@@ -107,19 +106,16 @@ Penetration-Toolkit/
 ├── dist/                   ← Contains compiled .exe (after PyInstaller)
 ```
 
----
 
 ## License
 
 MIT License – Free to use, modify, and distribute with attribution.
 
----
 
 ## Author
 
 **Ashirwad Shukla**
 Cybersecurity Enthusiast
 
----
 
 
